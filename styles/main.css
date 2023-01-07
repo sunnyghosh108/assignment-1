@@ -1,7 +1,59 @@
-h1{
-    color: blue;
+
+.header {
+    background-image: url('../images/banner/banner1.png');
+    height: 100vh;
+    width: 100%;
+}
+.btn{
+    background-color: orange;
+    padding: 15px;
+    margin: 10px;
+    font-size:20px;
 
 }
-p{
-    color: brown;
+.my-img {
+    
+
+}
+.pln{
+    display: flex;
+
+}
+.fail{
+
+}
+.header{
+    align-items: center;
+
+}
+.banner{
+    margin-left: 800px;
+    padding: 200px 25px;
+
+}
+.my-pln{
+    text-align: center;
+    font-size: 20px;
+
+}
+.skill{
+    padding: 100px;
+    
+
+}
+.para{
+
+}
+.mid{
+    display: flex;
+    padding:0 100px ;
+    margin-top: 90px;
+}
+.person{
+    
+}
+.paragraph{
+    padding:0 100px ;
+    margin-top: 200px;
+
 }
