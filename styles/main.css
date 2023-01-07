@@ -65,3 +65,20 @@
     background-repeat: no-repeat;
 
 }
+.bton {
+    padding: 20px;
+    margin: 25px;
+
+}
+.foot{
+    background-color: black;
+}
+.footer-head{
+    color: blue;
+}
+.footer-paragraph{
+    color: rgb(97, 11, 211);
+}
+.footer-end{
+    color: white;
+}
