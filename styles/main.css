@@ -57,3 +57,11 @@
     margin-top: 200px;
 
 }
+.icon{
+    padding: 1px 3px;
+}
+.grid {
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+
+}
